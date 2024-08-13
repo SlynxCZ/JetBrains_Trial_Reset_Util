@@ -1,6 +1,6 @@
-# JetBrains IDE Reset Tool
+# JetBrains IDE Reset Util
 
-This tool provides a graphical user interface (GUI) for resetting JetBrains IDEs. It allows users to select a JetBrains IDE, perform necessary reset actions, and open the selected IDE. 
+This utility provides a graphical user interface (GUI) for resetting JetBrains IDEs. It allows users to select a JetBrains IDE, perform necessary reset actions, and open the selected IDE. 
 
 ## Features
 
