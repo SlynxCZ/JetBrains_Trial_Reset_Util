@@ -12,9 +12,6 @@ class MainWindow(QtWidgets.QWidget):
         self.setWindowTitle("JetBrains IDE Reset")
         self.setGeometry(300, 300, 400, 300)
 
-        # Set window icon
-        self.setWindowIcon(QtGui.QIcon('icon.ico'))  # Make sure 'icon.ico' is in the same directory
-
         self.main_layout = QtWidgets.QVBoxLayout()
 
         self.grid_layout = QtWidgets.QGridLayout()
